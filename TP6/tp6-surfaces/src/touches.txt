@@ -1,0 +1,33 @@
+    q:  Quitter l'application
+    x:  Activer/désactiver l'affichage des axes
+    v:  Recharger les fichiers des nuanceurs et recréer le programme
+    i:  Augmenter le niveau de tessellation interne
+    k:  Diminuer le niveau de tessellation interne
+    o:  Augmenter le niveau de tessellation externe
+    l:  Diminuer le niveau de tessallation externe
+    u:  Augmenter les deux niveaux de tessellation
+    j:  Diminuer les deux niveaux de tessellation
+    MINUS:  Moduler l'effet du déplacement
+    PLUS:  Moduler l'effet du déplacement
+    HOME:  Sélectionner l'autre source lumineuse
+    UP:  Déplacer la source lumineuse en X
+    DOWN:  Déplacer la source lumineuse en X
+    LEFT:  Déplacer la source lumineuse en Y
+    RIGHT:  Déplacer la source lumineuse en Y
+    PAGEDOWN:  Déplacer la source lumineuse en Z
+    PAGEUP:  Déplacer la source lumineuse en Z
+    p:  Permuter lumière positionnelle ou directionnelle
+    w:  Permuter l'utilisation de l'observateur local
+    s:  Varier le type d'affichage stéréo: mono, stéréo anaglyphe, stéréo double
+    0:  Revenir à la surface de base (ne pas utiliser de textures)
+    f:  Varier la fonction mathématique utilisée pour le déplacement
+    t:  Varier l'indice de la texture utilisée pour le déplacement
+    c:  Varier l'indice de la texture utilisée pour la composante diffuse de la couleur
+    e:  Varier l'indice de la texture utilisée pour la couleur ET le déplacement
+    g:  Permuter l'affichage en fil de fer ou plein
+    n:  Utiliser ou non les normales calculées comme couleur (pour le débogage)
+    z:  Appliquer ou non le déplacement en Z
+    SPACE:  Mettre en pause ou reprendre l'animation
+    BUTTON_LEFT:  Déplacer la caméra
+    BUTTON_MIDDLE:  Déplacer la lumière en profondeur uniquement
+    BUTTON_RIGHT:  Déplacer la lumière à la position de la souris (sans changer la profondeur)

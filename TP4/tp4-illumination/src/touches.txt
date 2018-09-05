@@ -1,0 +1,25 @@
+    q:  Quitter l'application
+    x:  Activer/désactiver l'affichage des axes
+    v:  Recharger les fichiers des nuanceurs et recréer le programme
+    p:  Permuter la projection: perspective ou orthogonale
+    i:  Alterner entre le modèle d'illumination: Lambert, Gouraud, Phong
+    r:  Alterner entre le modèle de réflexion spéculaire: Phong, Blinn
+    s:  Alterner entre le modèle de spot: OpenGL, Direct3D
+    l:  Alterner entre une caméra locale à la scène ou distante (localViewer)
+    a:  Incrémenter l'angle du cône du spot
+    z:  Décrémenter l'angle du cône du spot
+    d:  Incrémenter l'exposant du spot
+    e:  Décrémenter l'exposant du spot
+    j:  Incrémenter le cooefficient de brillance
+    u:  Décrémenter le cooefficient de brillance
+    m:  Choisir le modèle affiché: cube, théière, tore, sphère, dodécaèdre, icosahèdre
+    t:  Choisir la texture utilisée: aucune, dé, échiquier
+    w:  Changer le mode de répétition de la texture
+    c:  Changer l'affichage de l'objet texturé avec couleurs ou sans couleur
+    o:  Permuter la transparence des pixels noirs
+    g:  Permuter l'affichage en fil de fer ou plein
+    n:   Utiliser ou non les normales calculées comme couleur (pour le débogage)
+    SPACE:  Permuter la rotation automatique du modèle
+    BUTTON_LEFT:  Tourner l'objet
+    BUTTON_MIDDLE:  Modifier l'orientation du spot
+    BUTTON_RIGHT:  Déplacer la lumière
